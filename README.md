@@ -2,7 +2,7 @@
 <img src="https://info.bc3research.org/wp-content/uploads/2021/11/job-offer-ext-9.png"/>
 
 <h1 align="center">Hi 👋, I'm Sadichchha Naiknavare</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Java developer from India</h3>
 
 <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadichchha1998&label=Profile%20views&color=0e75b6&style=flat" alt="sadichchha1998" /> </p>
@@ -62,4 +62,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadichchha1998&show_icons=true&locale=en" alt="sadichchha1998" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadichchha1998&" alt="sadichchha1998" /></p>
- <img src=  "https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-all-mode"/>
