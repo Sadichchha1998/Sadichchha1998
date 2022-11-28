@@ -36,7 +36,6 @@
 <h1 align="center">Hi 👋, I'm Sadichchha Naiknavare</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-< img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstemettes.org%2Fzine%2Farticles%2Fwhats-the-difference-comparing-front-end-back-end-development%2F&psig=AOvVaw3fHq9j0C_mOjL80b_UAklA&ust=1669497688259000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCWmNehyvsCFQAAAAAdAAAAABAX">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadichchha1998&label=Profile%20views&color=0e75b6&style=flat" alt="sadichchha1998" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadichchha1998" alt="sadichchha1998" /></a> </p>
