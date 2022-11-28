@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Sadichchha Naiknavare</h1>
 <h3 align="center">Java developer from India</h3>
 
-<img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadichchha1998&label=Profile%20views&color=0e75b6&style=flat" alt="sadichchha1998" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadichchha1998" alt="sadichchha1998" /></a> </p>
