@@ -32,7 +32,7 @@
 <!-- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Finfo.bc3research.org%2F2022%2F07%2F22%2Fsoftware-developer-java-backend-2%2F&psig=AOvVaw0h15FCnUFtWhHhUqeWqKQ7&ust=1669497340704000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjbu7GgyvsCFQAAAAAdAAAAABAN"/> -->
 
 <h1 align="center">Hi 👋, I'm Sadichchha Naiknavare</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadichchha1998&label=Profile%20views&color=0e75b6&style=flat" alt="sadichchha1998" /> </p>
 
