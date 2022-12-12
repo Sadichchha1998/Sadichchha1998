@@ -1,7 +1,12 @@
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210317125205/Java-Backend-Development-%E2%80%93-Live-Course-By-GeeksforGeeks1.png" />
 <h1 align="center">Hi 👋, I'm Sadichchha Naiknavare</h1>
-<h3 align="center">Java developer from India</h3>
 
+<h3 align="center">Java developer from India</h3>
+<h6 align="center">An ambitious developer with strong command in Java,
+JavaScript, HTML, SQL database, Web API, etc.
+Constant learner and ability to adapt to new technologies
+and can work in a challenging atmosphere.
+12000+ hours of Practical Coding </h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadichchha1998&label=Profile%20views&color=0e75b6&style=flat" alt="sadichchha1998" /> </p>
 
