@@ -37,13 +37,6 @@
 </div>
 
  </br> </br>
- 
-
-
-
-
-
-
 
  <!-- -------------------------------------------------------    Middle Section  ----------------------------------------------------------------------- -->
  
@@ -55,13 +48,11 @@
 
 <code><a href="https://github.com/search?q=user%3Sadichchha1998+language%3Ajava"><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code> 
 <code><a href="https://github.com/search?q=user%3Sadichchha1998+language%3Ajavascript"><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://github.com/search?q=user%3Sadichchha1998+language%3Ajavascript"><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
 <code><a href="https://github.com/search?q=user%3Sadichchha1998+language%3Acss"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
 <code><a href="https://github.com/search?q=user%3Sadichchha1998+language%3Ahtml"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
 <code><a href="https://github.com/search?q=user%3Sadichchha1998+language%3Abash"><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
 <code><a href="https://github.com/search?q=user%3Sadichchha1998+language%3Asql"><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 
 <!-- <code><a href="https://github.com/search?q=user%3Sadichchha1998+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a></code>
 <code><a href="https://github.com/search?q=user%3Sadichchha1998+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a></code> -->
@@ -74,7 +65,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/maven.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
 <!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code> -->
 
 </br>
@@ -86,20 +76,17 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/replit/replit-ar21.svg"></code>
 
 </br>
 
 ### 💻 Software and tools
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
+
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+
 
 </br>
 
@@ -130,10 +117,4 @@
 
 </br>
 </details>
-
-<img align="center" src="https://raw.githubusercontent.com/Sadichchha1998/Sadichchha1998/main/profile-3d-contrib/profile-night-green.svg" alt="coder_abhi0713" height="550" width="100%" /> 
-
-<img width=100% title="CoderSadichchha1998." alt="CoderSadichchha1998" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Consistency🔁Success&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
-
-
 
