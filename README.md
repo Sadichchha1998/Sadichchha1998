@@ -27,7 +27,7 @@
 
 - 💬 Ask me about `Java and Data Structure Algorithms.`
 
-<!-- - 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1qHSpYD2jC0yBWLZ08IYVsR-InYVXxgF6?usp=share_link">Resume.</a> -->
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1P86jwf_e5G7EXlJ7cOx15DfAM_sUYBWt/view?usp=share_link">Resume.</a>
 
 - 👨‍💻 All of my projects are available at <a href="https://sadichchha1998.github.io/">Sadichchha's Portfolio.</a>
 
@@ -46,7 +46,7 @@
 
  ### 👨‍💻 Programming and markup languages
 
-<code><a href="https://github.com/search?q=user%3Sadichchha1998+language%3Ajava"><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code> 
+<code><a href="https://github.com/Sadichchha1998?tab=repositories&q=&type=&language=java&sort="><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code> 
 <code><a href="https://github.com/search?q=user%3Sadichchha1998+language%3Ajavascript"><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://github.com/search?q=user%3Sadichchha1998+language%3Acss"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
 <code><a href="https://github.com/search?q=user%3Sadichchha1998+language%3Ahtml"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
