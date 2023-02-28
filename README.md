@@ -47,11 +47,11 @@
  ### 👨‍💻 Programming and markup languages
 
 <code><a href="https://github.com/Sadichchha1998?tab=repositories&q=&type=&language=java&sort="><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code> 
-<code><a href="https://github.com/search?q=user%3Sadichchha1998+language%3Ajavascript"><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://github.com/search?q=user%3Sadichchha1998+language%3Acss"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
-<code><a href="https://github.com/search?q=user%3Sadichchha1998+language%3Ahtml"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-<code><a href="https://github.com/search?q=user%3Sadichchha1998+language%3Abash"><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
-<code><a href="https://github.com/search?q=user%3Sadichchha1998+language%3Asql"><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a href="https://github.com/Sadichchha1998?tab=repositories&q=&type=&language=javascript&sort="><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://github.com/Sadichchha1998?tab=repositories&q=&type=&language=html&sort="><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
+<code><a href="https://github.com/Sadichchha1998?tab=repositories&q=&type=&language=html&sort="><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+
+<code><a href="https://github.com/Sadichchha1998?tab=repositories&q=&type=&language=java&sort=" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 
 
 <!-- <code><a href="https://github.com/search?q=user%3Sadichchha1998+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a></code>
