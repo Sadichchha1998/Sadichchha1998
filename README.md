@@ -35,6 +35,8 @@
 - 📮 Connect With Me On <a href="https://www.linkedin.com/in/sadichchha-naiknavre-214ab121a/">LinkedIn</a>
 
 
+- 📫 Email ID : **sadichchha15@gmail.com**
+
 </div>
 
  </br> </br>
