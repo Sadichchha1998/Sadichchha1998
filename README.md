@@ -15,6 +15,7 @@
 
 <div>
 
+
  <img src="https://topdevs.org/images/site/services/webdev/hero-bg.svg" alt="Coder" width = "50%" height= "270" align = "right"> 
  
 </br> </br>
