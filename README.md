@@ -101,17 +101,4 @@
 | :---: | :---: |
 
 
-<details>
-   <summary><b>:rocket: &nbsp;Github stats Detailed</b></summary>
-   </br>
-  
-<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sadichchha1998&theme=2077"/></td><td>
-<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadichchha1998&theme=2077"/></td></tr></table>
-<table><tr><td width="430"><img width="500"  height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sadichchha1998&theme=2077"/></td>
-<td width="430"><img width="500" height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sadichchha1998&theme=2077"/></td></tr></table>
-
-[![Sadichchha's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sadichchha1998&theme=react-dark)](https://github.com/Sadichchha1998/github-readme-activity-graph)  
-
-</br>
-</details>
 
