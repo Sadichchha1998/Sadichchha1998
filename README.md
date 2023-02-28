@@ -84,7 +84,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-
+<code><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=fdd835" align="center" alt="slack"/></code>
 
 </br>
 
@@ -102,4 +102,4 @@
 | :---: | :---: |
 
 
-
+<img src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only" alt="" />
