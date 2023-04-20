@@ -19,7 +19,7 @@
  <img src="https://topdevs.org/images/site/services/webdev/hero-bg.svg" alt="Coder" width = "50%" height= "270" align = "right"> 
  
 </br> </br>
-<!-- [![Followers](https://img.shields.io/github/followers/abhishek-0713)](#) -->
+<!-- [![Followers](https://img.shields.io/github/followers/adichchha19983)](#) -->
  [![Stars](https://img.shields.io/github/stars/Sadichchha1998?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
 ![Profile views](https://gpvc.arturio.dev/Sadichchha1998)
 - 🌱 I’m currently learning `AWS.`
@@ -28,7 +28,7 @@
 
 - 💬 Ask me about `Java and Data Structure Algorithms.`
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1P86jwf_e5G7EXlJ7cOx15DfAM_sUYBWt/view?usp=share_link](https://drive.google.com/file/d/1u7cHpMqjixwtlPBPmBeA5uZ-vFFhquUT/view?usp=share_link)">Resume.</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1u7cHpMqjixwtlPBPmBeA5uZ-vFFhquUT/view?usp=share_link">Resume.</a>
 
 - 👨‍💻 All of my projects are available at <a href="https://sadichchha1998.github.io/">Sadichchha's Portfolio.</a>
 
