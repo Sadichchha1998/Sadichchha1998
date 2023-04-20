@@ -28,7 +28,7 @@
 
 - 💬 Ask me about `Java and Data Structure Algorithms.`
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1P86jwf_e5G7EXlJ7cOx15DfAM_sUYBWt/view?usp=share_link">Resume.</a>
+- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1P86jwf_e5G7EXlJ7cOx15DfAM_sUYBWt/view?usp=share_link](https://drive.google.com/file/d/1u7cHpMqjixwtlPBPmBeA5uZ-vFFhquUT/view?usp=share_link)">Resume.</a>
 
 - 👨‍💻 All of my projects are available at <a href="https://sadichchha1998.github.io/">Sadichchha's Portfolio.</a>
 
